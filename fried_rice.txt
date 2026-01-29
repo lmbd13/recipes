@@ -1,0 +1,21 @@
+\033[1;32m═══════════════════════════════════════
+    SIMPLE FRIED RICE
+═══════════════════════════════════════\033[0m
+
+\033[1mIngredients:\033[0m
+• 2 cups cooked rice (cold/day-old)
+• 2 eggs
+• 1 cup frozen mixed vegetables
+• 2 tbsp soy sauce
+• 2 tbsp oil
+• 2 spring onions, chopped
+
+\033[1mMethod:\033[0m
+1. Heat 1 tbsp oil, scramble eggs, set aside
+2. Heat 1 tbsp oil (high heat), add vegetables
+3. Stir-fry vegetables (2-3 min)
+4. Add rice, break up clumps, stir-fry (3 min)
+5. Add soy sauce, eggs, spring onions
+6. Toss everything (1 min)
+
+\033[1;33m⏱ Time: 10 minutes\033[0m
